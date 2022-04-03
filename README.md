@@ -33,7 +33,6 @@ make run SENDER=sender-id PORT=6666
 ```
 
 To run the tests:
-To compile:
 
 ```
 make test
